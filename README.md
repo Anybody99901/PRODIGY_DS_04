@@ -50,7 +50,7 @@ Each file contains:
 
 | Sentiment Distribution                   | Word Clouds                  |
 | ---------------------------------------- | ---------------------------- |
-| ![Sentiment](sentiment_distribution.png) | ![WordCloud](wordclouds.png) |
+| ![Sentiment]![Image](https://github.com/user-attachments/assets/933bd298-9bea-4ed7-93f0-338787ab0221) | ![WordCloud](wordclouds.png) |
 
 
 ## 🚀 Run This Project

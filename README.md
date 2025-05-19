@@ -50,14 +50,14 @@ Each file contains:
 
 | Sentiment Distribution                   | Word Clouds                  |
 | ---------------------------------------- | ---------------------------- |
-| ![Sentiment]![Image](https://github.com/user-attachments/assets/933bd298-9bea-4ed7-93f0-338787ab0221) | ![WordCloud](wordclouds.png) |
+| ![Image](https://github.com/user-attachments/assets/933bd298-9bea-4ed7-93f0-338787ab0221) | ![Image](https://github.com/user-attachments/assets/1721738f-0d23-49d0-b824-56a6b23efac3) |
 
 
 ## 🚀 Run This Project
 
 ### 🧪 Option 1: Run on Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/prodigy-task-4-sentiment-analysis/blob/main/sentiment_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KsNmdodsF1i9WjL8S73QmdCVznABcpOJ#scrollTo=_AFfee3oIIhG)
 
 ### 🧰 Option 2: Run Locally
 
